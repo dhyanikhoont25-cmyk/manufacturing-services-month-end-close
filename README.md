@@ -1,4 +1,4 @@
-# manufacturing-services-month-end-close
+# Manufacturing-services-month-end-close
 Two-month month-end close and financial reporting simulation for a manufacturing and professional services company under U.S. GAAP.
 # Month-End Close & Financial Reporting  
 ### Manufacturing + Professional Services Company (February–March 2025)
